@@ -1,5 +1,5 @@
 ## Recipe App
--Tietokantasovellus
+Tietokantasovellus
 
 # Ruokareseptit
 - Sovelluksessa käyttäjät pystyvät jakamaan ruokareseptejään. Reseptissä lukee tarvittavat ainekset ja valmistusohje.
